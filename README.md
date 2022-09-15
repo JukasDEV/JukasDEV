@@ -15,12 +15,13 @@
 ## Teclonogias que utilizo 
 
 
-![HTML](https://img.shields.io/badge/html-557C94?style=for-the-badge&logo=html&logoColor=white)
-![POSTGREESQL](https://img.shields.io/badge/postgreesql-FCC624?style=for-the-badge&logo=postgreesql&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![POSTGREESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REACT](https://img.shields.io/badge/react-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ## Sobre Mim
