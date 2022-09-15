@@ -15,8 +15,8 @@
 ## Teclonogias que utilizo 
 
 
-![HTML](https://img.shields.io/badge/html-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![POSTGREESQL](https://img.shields.io/badge/postgreesql-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/html-557C94?style=for-the-badge&logo=html&logoColor=white)
+![POSTGREESQL](https://img.shields.io/badge/postgreesql-FCC624?style=for-the-badge&logo=postgreesql&logoColor=black)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REACT](https://img.shields.io/badge/react-00ADD8?style=for-the-badge&logo=go&logoColor=white)
