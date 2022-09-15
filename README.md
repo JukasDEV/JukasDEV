@@ -1,4 +1,4 @@
-‘’’md
+
 ### Ola me chamo  João Curvello! :smile:
 
 
@@ -15,12 +15,12 @@
 ## Teclonogias que utilizo 
 
 
-![HTML](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![POSTGREESQL](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/html-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![POSTGREESQL](https://img.shields.io/badge/postgreesql-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![REACT](https://img.shields.io/badge/react-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## Sobre Mim
@@ -32,7 +32,7 @@ com códigos e sistemas.
 
 
 
-![EMAIL](https://img.shields.io/badge/danielfkiffer@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![EMAIL](https://img.shields.io/badge/jcurvelosoftware@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kiffer-320820234/)
 
 
