@@ -38,4 +38,4 @@ com códigos e sistemas.
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kiffer-320820234/)
 
 
-![Snake animation](https://github.com/danielfk11/danielfk11/blob/output/github-contribution-grid-snake.svg)’’’
+![Snake animation](https://github.com/.../.../blob/output/github-contribution-grid-snake.svg)’’’
