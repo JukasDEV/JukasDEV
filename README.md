@@ -1,5 +1,5 @@
 
-### Ola me chamo  João Curvello! :smile:
+### Olá me chamo  João Curvello! :smile:
 
 
 
@@ -12,11 +12,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JukasDEV&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Teclonogias que utilizo 
+## Tecnologias que utilizo 
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![POSTGREESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NODE.JS]
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
