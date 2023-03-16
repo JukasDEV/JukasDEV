@@ -23,12 +23,12 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 
 ## Sobre Mim
 
-Opa, me chamo João Lucas Curvello tenho 18 anos e atualmente cursando 2 período de Análise e desenvolvimento de sistemas, me interesso pela área Full stack e sigo estudando para atuar como programador Full Stack. Apaixonado por tecnologia desde sempre e focado em ajudar empresas e pessoas 
+Opa, me chamo João Lucas Curvello tenho 19 anos e atualmente cursando 2 período de Análise e desenvolvimento de sistemas, me interesso pela área Full stack e sigo estudando para atuar como programador Full Stack. Apaixonado por tecnologia desde sempre e focado em ajudar empresas e pessoas 
 com códigos e sistemas.
 
 ## Formas de contato 
