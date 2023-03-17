@@ -36,7 +36,7 @@ com códigos e sistemas.
 
 
 ![EMAIL](https://img.shields.io/badge/jcurvelosoftware@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12412-320820234/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-curvello-403340269/)
 
 
 ![Snake animation](https://github.com/danielfk11/danielfk11/blob/output/github-contribution-grid-snake.svg)’’’
